@@ -5,7 +5,7 @@ body{
 
 /* header utama */
 .kepala{
-background-color: lightgrey;
+background-color: #dedede;
 border: rgba(0, 0, 0, 0.1)   solid 1px;
 margin-top: -15px;
 margin-bottom: 15px;
